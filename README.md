@@ -20,11 +20,8 @@ The data were obtained from DASL (The Data And Story Library) website.
 
 ## Kullanılan Yazılımlar ve Yöntemler / Tools and Methods
 
-- SPSS veya MINITAB ile veri analizi ve testler  
-- Data analysis and testing using SPSS or MINITAB  
+- SPSS veya MINITAB ile veri analizi ve testler  /   Data analysis and testing using SPSS or MINITAB  
 
-- Hipotez testleri ve güven aralığı hesaplamaları  
-- Hypothesis testing and confidence interval calculations  
+- Hipotez testleri ve güven aralığı hesaplamaları  /  Hypothesis testing and confidence interval calculations  
 
-- Ki-kare uyum iyiliği, gruplar arası fark ve bağımsızlık testleri  
-- Chi-square goodness-of-fit, between-group differences, and independence tests  
+- Ki-kare uyum iyiliği, gruplar arası fark ve bağımsızlık testleri  /  Chi-square goodness-of-fit, between-group differences, and independence tests  
